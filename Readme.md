@@ -21,6 +21,15 @@ TODO
     <a href="https://t.me/Lipatov1" target="_blank">
       <img src="assets/icons/tg.svg" alt="tg">
     </a>
+    <a href="https://htmlacademy.ru/profile/lipatov" target="_blank">
+      <img src="assets/icons/htmlacademy.svg" alt="htmlacademy">
+    </a>
+    <a href="https://career.habr.com/ilya73" target="_blank">
+      <img src="assets/icons/habr.svg" alt="habr">
+    </a>
+    <a href="https://discordapp.com/users/344921578938695681" target="_blank">
+      <img src="assets/icons/discord.svg" alt="discord">
+    </a>
 </div>
 
 ---
