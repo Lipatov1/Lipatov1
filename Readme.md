@@ -6,28 +6,34 @@
 
 ---
 
-### :man_technologist: About me:
+## :man_technologist: About me:
 
 TODO
 
 ---
 
-### 🤝 Socials:
+## 🤝 Socials:
 
-  <div id="badges">
+<div>
     <a href="https://vk.com/id163536784" target="_blank">
         <img src="assets/icons/vk.svg" alt="vk">
     </a>
     <a href="https://t.me/Lipatov1" target="_blank">
       <img src="assets/icons/tg.svg" alt="tg">
     </a>
-  </div>
+</div>
 
 ---
 
-### 💻 Stack:
-
-TODO
+<details align="left">
+    <summary><h2>📚 Stack</h2></summary>
+    <h3>Langs</h3>
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,cs,cpp,py,java&line=7"/>
+    <h3>Frameworks / Tools</h3>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,jest,tailwind,sass,webpack,vite,linux,docker,git,gulp"/>
+    <h3>Software</h3>
+    <img src="https://skillicons.dev/icons?i=figma,ps,idea,vscode,visualstudio,postman"/>
+</details>
 
 ---
 

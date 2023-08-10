@@ -1,4 +1,4 @@
-<svg width="40" height="40" viewBox="0 0 64 64" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<svg width="32" height="32" viewBox="0 0 64 64" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
     <g fill-rule="evenodd">
         <path fill="#199bdf" d="M48 64H16A16 16 0 0 1 0 48V16A16 16 0 0 1 16 0h32a16 16 0 0 1 16 16v32a16 16 0 0 1-16 16"/>
         <path fill="#32b4ff" d="M30 18h18A9 9 0 0 0 48.92.046C48.614.029 48.311 0 48 0H16A16 16 0 0 0 0 16v32a30 30 0 0 1 30-30"/>
