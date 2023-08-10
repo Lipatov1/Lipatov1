@@ -4,13 +4,9 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
----
-
 ## :man_technologist: About me:
 
 TODO
-
----
 
 ## 🤝 Socials:
 
@@ -23,21 +19,17 @@ TODO
     </a>
 </div>
 
----
-
 <details align="left">
     <summary><h2>📚 Stack</h2></summary>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,cs,cpp,py,java&line=7"/>
+    <img height="32" alt="Langs" src="https://skillicons.dev/icons?i=ts,js,html,css,cs,cpp,py,java&line=7"/>
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,jest,tailwind,sass,webpack,vite,linux,docker,git,gulp"/>
+    <img height="32" alt="Frameworks / Tools" src="https://skillicons.dev/icons?i=react,nextjs,redux,jest,tailwind,sass,webpack,vite,linux,docker,git,gulp"/>
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=figma,ps,idea,vscode,visualstudio,postman"/>
+    <img height="32" alt="Software" src="https://skillicons.dev/icons?i=figma,ps,idea,vscode,visualstudio,postman"/>
 </details>
 
----
-
-### ⚙️ GitHub Statistics:
+## ⚙️ GitHub Statistics:
 
 <table>
   <tr>
