@@ -1,14 +1,18 @@
-<h1 align="center">👋 Hello, I'm Ilya</h1>
+<h2 align="center">👋 Hello, I'm Ilya</h2>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-## :man_technologist: About me:
+---
+
+### 👨‍💻 About me:
 
 TODO
 
-## 🤝 Socials:
+---
+
+### 🤝 Socials:
 
 <div>
     <a href="https://vk.com/id163536784" target="_blank">
@@ -19,17 +23,21 @@ TODO
     </a>
 </div>
 
+---
+
 <details align="left">
-    <summary><h2>📚 Stack</h2></summary>
-    <h3>Langs</h3>
+    <summary><h3>📚 Stack</h3></summary>
+    <h4>Langs</h4>
     <img height="32" alt="Langs" src="https://skillicons.dev/icons?i=ts,js,html,css,cs,cpp,py,java&line=7"/>
-    <h3>Frameworks / Tools</h3>
+    <h4>Frameworks / Tools</h4>
     <img height="32" alt="Frameworks / Tools" src="https://skillicons.dev/icons?i=react,nextjs,redux,jest,tailwind,sass,webpack,vite,linux,docker,git,gulp"/>
-    <h3>Software</h3>
+    <h4>Software</h4>
     <img height="32" alt="Software" src="https://skillicons.dev/icons?i=figma,ps,idea,vscode,visualstudio,postman"/>
 </details>
 
-## ⚙️ GitHub Statistics:
+---
+
+### ⚙️ GitHub Statistics:
 
 <table>
   <tr>
