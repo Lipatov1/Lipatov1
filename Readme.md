@@ -8,7 +8,8 @@
 
 ### 👨‍💻 About me:
 
-TODO
+I'm a frontend developer from Russia, a 4th year student of ULSTU in the direction of software engineering, successfully completed training in the professions of "React developer" and "Frontend developer" from HTML Academy.\
+It would be great to get a job in your company, work on interesting projects and benefit you.
 
 ---
 
@@ -34,15 +35,15 @@ TODO
 
 ---
 
-<details align="left">
-    <summary><h3>📚 Stack</h3></summary>
-    <h4>Langs</h4>
-    <img height="32" alt="Langs" src="https://skillicons.dev/icons?i=ts,js,html,css,cs,cpp,py,java&line=7"/>
-    <h4>Frameworks / Tools</h4>
-    <img height="32" alt="Frameworks / Tools" src="https://skillicons.dev/icons?i=react,nextjs,redux,jest,tailwind,sass,webpack,vite,linux,docker,git,gulp"/>
-    <h4>Software</h4>
-    <img height="32" alt="Software" src="https://skillicons.dev/icons?i=figma,ps,idea,vscode,visualstudio,postman"/>
-</details>
+### 📚 Stack:
+- <h4>Langs</h4>
+<img height="32" alt="Langs" src="https://skillicons.dev/icons?i=ts,js,html,css,cs,cpp,py,java&line=7"/>
+
+- <h4>Frameworks / Tools</h4>
+<img height="32" alt="Frameworks / Tools" src="https://skillicons.dev/icons?i=react,nextjs,redux,jest,tailwind,sass,webpack,vite,linux,docker,git,gulp"/>
+
+- <h4>Software</h4>
+<img height="32" alt="Software" src="https://skillicons.dev/icons?i=figma,ps,idea,vscode,visualstudio,postman"/>
 
 ---
 
@@ -51,10 +52,10 @@ TODO
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Lipatov1&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=Lipatov1&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lipatov1&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lipatov1&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
