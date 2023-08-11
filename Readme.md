@@ -37,13 +37,13 @@
 ---
 
 ### 📚 Stack:
-> - <h4>Langs</h4>
+> <h4>Langs</h4>
 > <img height="32" alt="Langs" src="https://skillicons.dev/icons?i=ts,js,html,css,cs,cpp,py,java&line=7"/>
 
-> - <h4>Frameworks / Tools</h4>
+> <h4>Frameworks / Tools</h4>
 > <img height="32" alt="Frameworks / Tools" src="https://skillicons.dev/icons?i=react,nextjs,redux,jest,tailwind,sass,webpack,vite,linux,docker,git,gulp"/>
 
-> - <h4>Software</h4>
+> <h4>Software</h4>
 > <img height="32" alt="Software" src="https://skillicons.dev/icons?i=figma,ps,idea,vscode,visualstudio,postman"/>
 
 ---
