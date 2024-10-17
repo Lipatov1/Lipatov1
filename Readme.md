@@ -23,9 +23,6 @@
     <a href="https://t.me/Lipatov1" target="_blank">
         <img src="assets/icons/tg.svg" alt="tg">
     </a>
-    <a href="https://htmlacademy.ru/profile/lipatov" target="_blank">
-        <img src="assets/icons/htmlacademy.svg" alt="htmlacademy">
-    </a>
     <a href="https://career.habr.com/ilya73" target="_blank">
         <img src="assets/icons/habr.svg" alt="habr">
     </a>
@@ -41,7 +38,7 @@
 > <img height="32" alt="Langs" src="https://skillicons.dev/icons?i=ts,js,html,css,cs,cpp,py,java&line=7"/>
 
 > <h4>Frameworks / Tools</h4>
-> <img height="32" alt="Frameworks / Tools" src="https://skillicons.dev/icons?i=react,nextjs,redux,jest,tailwind,sass,webpack,vite,linux,docker,git,gulp"/>
+> <img height="32" alt="Frameworks / Tools" src="https://skillicons.dev/icons?i=react,nextjs,redux,jest,cypress,tailwind,sass,webpack,vite,linux,docker,git,gulp"/>
 
 > <h4>Software</h4>
 > <img height="32" alt="Software" src="https://skillicons.dev/icons?i=figma,ps,idea,vscode,visualstudio,postman"/>
