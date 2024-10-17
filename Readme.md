@@ -8,9 +8,9 @@
 
 ### 👨‍💻 About me:
 
-<p>I'm a frontend developer from Russia, a 4th year student of ULSTU in the direction of software engineering, successfully completed training in the professions of <a href="https://assets.htmlacademy.ru/certificates/profession/47/1564353.pdf" target="_blank">“React Developer”</a> and <a href="https://assets.htmlacademy.ru/certificates/profession/39/1564353.pdf" target="_blank">“Front-end Developer”</a> from HTML Academy.</p>
+<p>I'm a frontend developer from Russia, graduated with honors from UlSTU Faculty of Information Systems and Technologies with a degree in Software Engineering.</p>
 
-<p>It would be great to get a job in your company, work on interesting projects and benefit you.</p>
+<p>Since September 2021, I have been working at SimbirSoft, an IT company that provided custom software development services.</p>
 
 ---
 
